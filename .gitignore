@@ -1,0 +1,10 @@
+# IDEA
+.idea
+
+# Serverless directories
+.serverless
+.dynamodb
+node_modules
+
+# golang output binary directory
+bin
